@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetTranslatorFun", "LeetTranslatorFun\LeetTranslatorFun.csproj", "{EC69CB2E-37A6-47B3-B86A-963B583B2323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC69CB2E-37A6-47B3-B86A-963B583B2323}.Debug|x86.ActiveCfg = Debug|x86
+		{EC69CB2E-37A6-47B3-B86A-963B583B2323}.Debug|x86.Build.0 = Debug|x86
+		{EC69CB2E-37A6-47B3-B86A-963B583B2323}.Release|x86.ActiveCfg = Release|x86
+		{EC69CB2E-37A6-47B3-B86A-963B583B2323}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {852B0594-57EF-479F-9E55-4A0EA9EA8ED1}
+	EndGlobalSection
+EndGlobal
